@@ -1,1 +1,1 @@
-fine
+console.log('FINE!');
