@@ -1,6 +1,6 @@
 {
+
   "name": "hexlet",
-  "type": "module",
   "version": "1.0.0",
   "description": "my project",
   "main": "index.js",
@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/blackRayStone/hexlet-js/issues"
   },
-  "homepage": "https://github.com/blackRayStone/hexlet-js#readme",
-  "dependencies": {
-    "lodash": "^4.17.21"
-  }
+  "homepage": "https://github.com/blackRayStone/hexlet-js#readme"
 }

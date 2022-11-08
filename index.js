@@ -1,3 +1,4 @@
+import _ from "lodash";
 console.log('FINE!');
 
 let a = 10;
@@ -9,3 +10,6 @@ const sum = (a, b) => {
 }
 
 console.log(sum(a, b));
+
+console.log(_.capitalize("hello"));
+console.log(_.last(['one','two']));
