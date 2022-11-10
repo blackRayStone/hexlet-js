@@ -1,14 +1,13 @@
-import _ from "lodash";
-console.log("FINE!");
+import _ from 'lodash';
 
-let a = 10;
-let b = 15;
+console.log('FINE!');
 
-const sum = (a, b) => {
-  return a + b;
-};
+const a = 10;
+const b = 15;
+
+const sum = (a, b) => a + b;
 
 console.log(sum(a, b));
 
-console.log(_.capitalize("hello"));
-console.log(_.last(["one", "two"]));
+console.log(_.capitalize('hello'));
+console.log(_.last(['one', 'two']));
